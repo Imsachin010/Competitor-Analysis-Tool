@@ -1,4 +1,5 @@
 # Competitor-Analysis-Tool
+
 ## Market Research Agent
 
 The Market Research Agent is an AI-driven tool designed for competitor analysis, with a focus on providing actionable intelligence for businesses. It leverages cutting-edge technologies such as Langchain and OpenAI to gather, process, and analyze data from various sources to generate insights about competitors.
@@ -24,7 +25,12 @@ The Market Research Agent is an AI-driven tool designed for competitor analysis,
 1. Clone the repository:
    ```bash
    git clone https://github.com/Imsachin010/Competitor-Analysis-Tool/
+   cd projectA
 
 2. Install the required dependencies:
-  ```bash
-  pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
+
+3. Run the Streamlit app:
+   ```bash
+   streamlit run main.py
